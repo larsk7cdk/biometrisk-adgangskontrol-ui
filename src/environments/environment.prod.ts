@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  accessRegistrationUrl: '',
+  accessRegistrationUrl: 'https://biometrisk-adgangskontrol-functions.azurewebsites.net/api/registrations',
 };

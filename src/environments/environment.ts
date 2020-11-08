@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  accessRegistrationUrl: 'assets/mocks/access-registrations.json',
+  // accessRegistrationUrl: 'assets/mocks/access-registrations.json',
+  accessRegistrationUrl: 'https://biometrisk-adgangskontrol-functions.azurewebsites.net/api/registrations',
 };
 
 /*
