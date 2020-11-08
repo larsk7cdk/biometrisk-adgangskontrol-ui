@@ -1,11 +1,11 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { OverblikComponent } from './features/medarbejder/container/overblik/overblik.component';
+import { AccessRegistrationOverviewComponent } from './features/access-registration/container/access-registration-overview/access-registration-overview.component';
 
 const routes: Routes = [
   {
     path: '',
-    component: OverblikComponent,
+    component: AccessRegistrationOverviewComponent,
   },
 ];
 
