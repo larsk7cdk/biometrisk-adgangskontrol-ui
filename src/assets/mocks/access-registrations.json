@@ -1,0 +1,20 @@
+[
+  {
+      "id": "b6132183-9e26-48d2-872d-1c57def208e9",
+      "status": "Godkendt",
+      "imageUrl": "https://slbioakstorage.blob.core.windows.net/access-registration-images/c3544e24-c119-d8a7-1589-0d0bf2dc464e.jpg",
+      "accessTimeStamp": "2020-11-08 14:20"
+  },
+  {
+      "id": "dc56a48e-fdc4-4b8a-9825-e4dd0f7a44ef",
+      "status": "Godkendt",
+      "imageUrl": "https://slbioakstorage.blob.core.windows.net/access-registration-images/a3e1fc01-529e-606a-a0fe-e58b6e6842a2.jpg",
+      "accessTimeStamp": "2020-11-08 14:06"
+  },
+  {
+      "id": "7957b59a-3a54-4044-b888-c69c2eb4ade8",
+      "status": "Afvist",
+      "imageUrl": "https://slbioakstorage.blob.core.windows.net/access-registration-images/e591eb2c-d323-e1d8-68eb-11ee850234ed.jpg",
+      "accessTimeStamp": "2020-11-08 14:05"
+  }
+]
